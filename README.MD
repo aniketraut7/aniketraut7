@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mzWslUymwA0kNk6dp8/giphy.gif" width="700" alt="Luffy Walking Fire Aura" />
+  <img src="https://raw.githubusercontent.com/aniketraut7/aniketraut7/main/luffy.gif" width="600" alt="Luffy Salute" />
 </p>
-
 
 ---
 
