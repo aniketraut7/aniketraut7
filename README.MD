@@ -72,9 +72,6 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 > *“I don't seek fame. I seek flaws — to understand, to break, and to protect.”*  
 > — Lucifer 🕶️
 
-<p align="center">
-  <img src="https://svgshare.com/i/14Jv.svg" alt="Stay curious. Stay secure." width="400"/>
-</p>
 
 <p align="center">
   <b><i>💻 Thanks for visiting my cyber lair</i></b><br>
