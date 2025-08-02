@@ -6,21 +6,16 @@
   <img src="https://raw.githubusercontent.com/aniketraut7/aniketraut7/main/Luffy.gif" width="600" alt="Luffy GIF" />
 </p>
 
-
 ---
-
 
 ## 🧑‍💻 About Me
 
-Hey there! I’m Aniket Raut, a dedicated Cybersecurity Enthusiast with a passion for ethical hacking and securing digital landscapes.
+- 🎓 **Degree:** B.E. in Computer Engineering  
+- 📜 **Certified:** CEH v13, Google Cybersecurity, Blue Team Junior Analyst  
+- 🛡️ **Interests:** Ethical Hacking, Web Security, Bug Hunting  
+- 🌐 **Currently:** Learning real-world attacks and practicing CTF challenges  
 
-```yaml
-🎓 Degree: B.E. in Computer Engineering
-📜 Certified: CEH v13, Google Cybersecurity, Blue Team Junior Analyst, 
-🛡️ Interests: Ethical Hacking, Web Security, Bug Hunting
-🌐 Currently: Learning real-world attacks and practicing CTF challenges
-```
-🚀 Motto: “Veni, Vidi, Vici”
+🚀 **Motto:** *“Veni, Vidi, Vici”*
 
 ---
 
@@ -35,9 +30,16 @@ Hey there! I’m Aniket Raut, a dedicated Cybersecurity Enthusiast with a passio
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-3F51B5?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214fa3?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214fa3?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
+---
+
+## 🔍 Featured Work / Writeups
+
+- [CTF: Web Exploitation — Pluck CMS RCE](#)  
+- [Bug Report: XSS on example.com (Hall of Fame)](#)  
+- [TryHackMe Room Writeups](https://tryhackme.com/p/Lucifersama)  
 
 ---
 
@@ -70,7 +72,7 @@ Hey there! I’m Aniket Raut, a dedicated Cybersecurity Enthusiast with a passio
   </a>
 </p>
 
-
 ---
 
-
+> *“I don't seek fame. I seek flaws — to understand, to break, and to protect.”*  
+> — Lucifer 🕶️
