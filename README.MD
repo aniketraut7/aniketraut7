@@ -69,9 +69,8 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 
 ---
 <p align="center">
-  <img src="https://svgshare.com/i/14Jv.svg" alt="Stay curious. Stay secure." width="400"/>
+  <img src="https://img.shields.io/badge/Thanks_for_visiting_my_terminal_-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </p>
-
 
 > *“I don't seek fame. I seek flaws — to understand, to break, and to protect.”*  
 > — Lucifer 🕶️
