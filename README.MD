@@ -40,15 +40,14 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketraut7&show_icons=true&theme=react" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraut7&layout=compact&theme=react" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketraut7&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraut7&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketraut7&theme=react" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketraut7&theme=tokyonight" width="95%" />
 </p>
 
----
 
 ## 📱 Connect with Me
 
