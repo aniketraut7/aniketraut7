@@ -1,14 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&lines=L.U.C.I.F.E.R+%E2%86%92+Learning+Unlimited+Cyber+Intelligence+For+Ethical+Recon" alt="LUCIFER Heading Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+Lucifer's+Domain;Ethical+Hacker+%7C+Cyber+Learner+%7C+CTF+Player;Rooting+Systems+%E2%80%94+Building+Skills" alt="Typing Animation Header" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Aniket+aka+Lucifer;Cybersecurity+Enthusiast+%F0%9F%9A%80;CEH+Certified+%F0%9F%94%92;Bug+Bounty+Beginner+%F0%9F%91%BD;CTF+Player+%F0%9F%8E%B2;Learning+Everyday+%F0%9F%93%9D" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Terminal Hacking GIF" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V1azJnbjQ4dHJ6c3Fla2ZlNmh0bmliZ2Zxejk3bmdhaXkwYzE0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" alt="Cybersecurity 3D Hacker Banner" />
-</p>
 
 
 ---
