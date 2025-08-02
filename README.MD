@@ -10,6 +10,8 @@
 
 ## 🧑‍💻 About Me
 
+Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with a passion for ethical hacking and securing digital landscapes. I focus on learning offensive security techniques through CTFs, hands-on labs, and continuous experimentation in real-world scenarios.
+
 - 🎓 **Degree:** B.E. in Computer Engineering  
 - 📜 **Certified:** CEH v13, Google Cybersecurity, Blue Team Junior Analyst  
 - 🛡️ **Interests:** Ethical Hacking, Web Security, Bug Hunting  
@@ -66,6 +68,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=System+Breached.;Root+Access+Granted.;Welcome+Lucifer+🕶️" />
+</p>
+
 
 > *“I don't seek fame. I seek flaws — to understand, to break, and to protect.”*  
 > — Lucifer 🕶️
