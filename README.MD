@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniketraut7/aniketraut7/main/luffy.gif" width="600" alt="Luffy Salute" />
+  <img src="https://raw.githubusercontent.com/aniketraut7/aniketraut7/main/Luffy.gif" width="600" alt="Luffy GIF" />
 </p>
+
 
 ---
 
