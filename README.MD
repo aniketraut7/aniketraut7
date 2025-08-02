@@ -35,13 +35,6 @@
 
 ---
 
-## 🔍 Featured Work / Writeups
-
-- [CTF: Web Exploitation — Pluck CMS RCE](#)  
-- [Bug Report: XSS on example.com (Hall of Fame)](#)  
-- [TryHackMe Room Writeups](https://tryhackme.com/p/Lucifersama)  
-
----
 
 ## 📊 GitHub Stats
 
