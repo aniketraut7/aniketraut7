@@ -73,7 +73,12 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 > — Lucifer 🕶️
 
 <p align="center">
-  <b><i>💀 Thanks for visiting my terminal</i></b><br>
-  <code>Stay curious. Stay secure. Stay rooted.</code>
+  <img src="https://svgshare.com/i/14Jv.svg" alt="Stay curious. Stay secure." width="400"/>
 </p>
+
+<p align="center">
+  <b><i>💻 Thanks for visiting my cyber lair</i></b><br>
+  <code>Explore. Exploit. Evolve.</code>
+</p>
+
 
