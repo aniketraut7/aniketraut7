@@ -69,7 +69,7 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=System+Breached.;Root+Access+Granted.;Welcome+Lucifer+🕶️" />
+  <img src="https://svgshare.com/i/14Jv.svg" alt="Stay curious. Stay secure." width="400"/>
 </p>
 
 
