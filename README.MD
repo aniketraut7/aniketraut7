@@ -18,11 +18,12 @@
 
 Hey there! I’m Aniket Raut, a dedicated Cybersecurity Enthusiast with a passion for ethical hacking and securing digital landscapes.
 
+```yaml
 🎓 Degree: B.E. in Computer Engineering
 📜 Certified: CEH v13, Google Cybersecurity, Blue Team Junior Analyst, 
 🛡️ Interests: Ethical Hacking, Web Security, Bug Hunting
 🌐 Currently: Learning real-world attacks and practicing CTF challenges
-
+```
 🚀 Motto: “Veni, Vidi, Vici”
 
 ---
