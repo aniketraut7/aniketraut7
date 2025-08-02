@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+Lucifer's+Domain;Ethical+Hacker+%7C+Cyber+Learner+%7C+CTF+Player;Rooting+Systems+%E2%80%94+Building+Skills" alt="Typing Animation Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=~$+Welcome+to+Lucifer's+Terminal;Ethical+Hacker+|+CTF+Player+|+Cyber+Learner;Access+Granted...+Rooting+Knowledge" alt="Hacker Terminal Banner" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Terminal Hacking GIF" />
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="700" alt="Dark Hacker Terminal" />
 </p>
-
 
 
 ---
