@@ -21,13 +21,12 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 
 ---
 
+
 ## 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-3F51B5?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -55,13 +54,13 @@ Hey there! I’m **Aniket Raut**, a dedicated **Cybersecurity Enthusiast** with 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-raut-6015a9231/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:aniketsraut7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://tryhackme.com/p/Lucifersama" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
